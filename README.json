@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "description": "Agent Skills are an open standard for giving AI coding agents specialized knowledge. Skills work across GitHub Copilot, Claude Code, Cursor, Codex, and more. Install any skill with the skills CLI:",
+      "items": [],
+      "title": "Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftUI Pro",
+          "description": "Modern APIs, accessibility, data flow, navigation, and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-20T08:02:42Z",
+            "owner": "twostraws",
+            "repo": "SwiftUI-Agent-Skill",
+            "stars": 4452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftUI Performance Audit",
+          "description": "Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftUI View Refactor",
+          "description": "Consistent view structure, MV patterns, @Observable usage, and dependency injection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftUI UI Patterns",
+          "description": "Component references for TabView, NavigationStack, Sheets, and view composition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftUI Liquid Glass",
+          "description": "iOS 26+ Liquid Glass API with , , and availability fallbacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftUI Expert",
+          "description": "State management, view composition, performance, and iOS 26+ Liquid Glass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:34:21Z",
+            "owner": "AvdLee",
+            "repo": "SwiftUI-Agent-Skill",
+            "stars": 3404
+          }
+        }
+      ],
+      "title": "SwiftUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Swift Concurrency Expert",
+          "description": "Swift 6.2+ actor isolation, data-race safety, and minimal-change fixes for compiler errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Concurrency",
+          "description": "Async/await, actors, Sendable, and strict concurrency for Swift 6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T12:46:55Z",
+            "owner": "AvdLee",
+            "repo": "Swift-Concurrency-Agent-Skill",
+            "stars": 1615
+          }
+        }
+      ],
+      "title": "Swift Concurrency"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftData",
+          "description": "@Model schemas, @Query, predicates, relationships, and migration patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T20:22:45Z",
+            "owner": "dpearson2699",
+            "repo": "swift-ios-skills",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Core Data Expert",
+          "description": "Data modeling, fetch requests, CloudKit sync, migration, and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T13:38:46Z",
+            "owner": "AvdLee",
+            "repo": "Core-Data-Agent-Skill",
+            "stars": 295
+          }
+        }
+      ],
+      "title": "Data and Persistence"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iOS HIG",
+          "description": "Apple Human Interface Guidelines compliance checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T05:24:16Z",
+            "owner": "johnrogers",
+            "repo": "claude-swift-engineering",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS 26 Platform",
+          "description": "Platform APIs and patterns for iOS 26.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T05:24:16Z",
+            "owner": "johnrogers",
+            "repo": "claude-swift-engineering",
+            "stars": 225
+          }
+        }
+      ],
+      "title": "Design and Platform"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "App Intents",
+          "description": "Siri, Shortcuts, and App Intents framework integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T20:22:45Z",
+            "owner": "dpearson2699",
+            "repo": "swift-ios-skills",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Activities",
+          "description": "Dynamic Island and Lock Screen live updates with ActivityKit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T20:22:45Z",
+            "owner": "dpearson2699",
+            "repo": "swift-ios-skills",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WidgetKit",
+          "description": "Home Screen and Lock Screen widget development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T20:22:45Z",
+            "owner": "dpearson2699",
+            "repo": "swift-ios-skills",
+            "stars": 991
+          }
+        }
+      ],
+      "title": "App Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "App Store Changelog",
+          "description": "Generate App Store release notes from Git history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GH Issue Fix Flow",
+          "description": "End-to-end GitHub issue resolution with read, fix, build, test, and push.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS SwiftPM Packaging",
+          "description": "Scaffold, build, and package SwiftPM macOS apps without Xcode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-29T15:28:02Z",
+            "owner": "Dimillian",
+            "repo": "Skills",
+            "stars": 3900
+          }
+        }
+      ],
+      "title": "Workflow and Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Claude Swift Engineering",
+          "description": "Eleven agents for planning, implementing, reviewing, and testing Swift and TCA code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T05:24:16Z",
+            "owner": "johnrogers",
+            "repo": "claude-swift-engineering",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Agents",
+          "description": "Sixteen orchestrated specialists covering concurrency, SwiftUI, accessibility, security, testing, StoreKit, SwiftData, visionOS, Core ML, MLX, and Foundation Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-25T04:18:40Z",
+            "owner": "Techopolis",
+            "repo": "swift-agents",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-copilot MCP",
+          "description": "Search and install agents, skills, and MCP servers from GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:24:36Z",
+            "owner": "github",
+            "repo": "awesome-copilot",
+            "stars": 37786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XcodeBuildMCP",
+          "description": "Build, run, test, and debug Xcode projects from AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:00:35Z",
+            "owner": "getsentry",
+            "repo": "XcodeBuildMCP",
+            "stars": 6229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Swift SDK",
+          "description": "Official Swift SDK for building MCP servers and clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-07T08:37:25Z",
+            "owner": "modelcontextprotocol",
+            "repo": "swift-sdk",
+            "stars": 1463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple Docs MCP",
+          "description": "Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-17T02:39:50Z",
+            "owner": "kimsungwhee",
+            "repo": "apple-docs-mcp",
+            "stars": 1358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xcode MCP Server",
+          "description": "Xcode project management, simulator control, and build automation for AI assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-02T11:23:41Z",
+            "owner": "r-huijts",
+            "repo": "xcode-mcp-server",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift Patterns MCP",
+          "description": "Swift and SwiftUI best practices from leading iOS developers with intelligent search across YouTube, Patreon, and other sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-20T05:31:34Z",
+            "owner": "efremidze",
+            "repo": "swift-patterns-mcp",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "MCP Servers"
+    },
+    {
+      "description": "Contributions welcome. Please read CONTRIBUTING.md before submitting a PR.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Created by Taylor Arndt. Maintained by Techopolis.",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:29:37.777Z",
+    "original_repository": "Techopolis/awesome-ios-ai",
+    "original_repository_sha": "e77e8d1fc2dfc5368702c3f8d44ce2f27348df65",
+    "enhanced_repository": "enhansome/enhansome-ios-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome iOS AI with stars"
+  }
+}
