@@ -19,7 +19,7 @@
             "last_commit": "2026-04-20T08:02:42Z",
             "owner": "twostraws",
             "repo": "SwiftUI-Agent-Skill",
-            "stars": 4466
+            "stars": 4472
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-12T13:34:21Z",
             "owner": "AvdLee",
             "repo": "SwiftUI-Agent-Skill",
-            "stars": 3412
+            "stars": 3416
           }
         }
       ],
@@ -143,7 +143,7 @@
             "last_commit": "2026-07-31T20:22:45Z",
             "owner": "dpearson2699",
             "repo": "swift-ios-skills",
-            "stars": 1005
+            "stars": 1007
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-07-31T20:22:45Z",
             "owner": "dpearson2699",
             "repo": "swift-ios-skills",
-            "stars": 1005
+            "stars": 1007
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-07-31T20:22:45Z",
             "owner": "dpearson2699",
             "repo": "swift-ios-skills",
-            "stars": 1005
+            "stars": 1007
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-07-31T20:22:45Z",
             "owner": "dpearson2699",
             "repo": "swift-ios-skills",
-            "stars": 1005
+            "stars": 1007
           }
         }
       ],
@@ -338,10 +338,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T05:57:41Z",
+            "last_commit": "2026-08-18T05:32:37Z",
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 37935
+            "stars": 37975
           }
         },
         {
@@ -355,7 +355,7 @@
             "last_commit": "2026-08-12T20:00:35Z",
             "owner": "getsentry",
             "repo": "XcodeBuildMCP",
-            "stars": 6251
+            "stars": 6255
           }
         },
         {
@@ -429,7 +429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:52:25.187Z",
+    "last_updated": "2026-08-18T15:00:30.181Z",
     "original_repository": "Techopolis/awesome-ios-ai",
     "original_repository_sha": "e77e8d1fc2dfc5368702c3f8d44ce2f27348df65",
     "enhanced_repository": "enhansome/enhansome-ios-ai",
