@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-20T08:02:42Z",
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4475
+                "stars": 4476
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-12T13:34:21Z",
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3420
+                "stars": 3421
               }
             }
           ],
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-19T09:25:57Z",
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 38004
+            "stars": 38009
           }
         },
         {
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:00.723Z",
+    "last_updated": "2026-08-19T15:00:35.049Z",
     "original_repository": "Techopolis/awesome-ios-ai",
     "original_repository_id": 1176895198,
     "original_repository_sha": "e77e8d1fc2dfc5368702c3f8d44ce2f27348df65",
