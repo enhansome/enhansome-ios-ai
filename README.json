@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-20T08:02:42Z",
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4552
+                "stars": 4576
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-12T13:34:21Z",
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3439
+                "stars": 3443
               }
             }
           ],
@@ -114,7 +114,7 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -141,6 +141,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Swift Architecture",
+              "description": "Select and apply MVP, MVVM, MVI, TCA, Clean Architecture, VIPER, Coordinator, and Reactive patterns with concrete playbooks, anti-pattern fixes, and review checklists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157511953,
+                "language": "Python",
+                "last_commit": "2026-08-04T08:23:57Z",
+                "owner": "efremidze",
+                "repo": "swift-architecture-skill",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Architecture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SwiftData",
               "description": "@Model schemas, @Query, predicates, relationships, and migration patterns.",
               "children": [],
@@ -151,7 +173,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1028
+                "stars": 1031
               }
             },
             {
@@ -173,6 +195,72 @@
           "description": null,
           "node_type": "group",
           "title": "Data and Persistence"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Swift Testing Expert",
+              "description": "Modern Swift Testing framework with , , traits, tags, parameterized tests, and XCTest migration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1156416181,
+                "language": null,
+                "last_commit": "2026-08-07T13:39:14Z",
+                "owner": "AvdLee",
+                "repo": "Swift-Testing-Agent-Skill",
+                "stars": 439
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iOS Debugger Agent",
+              "description": "Build, run, and debug iOS apps on simulators via XcodeBuildMCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1125330672,
+                "language": "Shell",
+                "last_commit": "2026-03-29T15:28:02Z",
+                "owner": "Dimillian",
+                "repo": "Skills",
+                "stars": 3918
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debugging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Apple On-Device AI",
+              "description": "Foundation Models, on-device inference, and Apple Intelligence integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171184177,
+                "language": "Python",
+                "last_commit": "2026-07-31T20:22:45Z",
+                "owner": "dpearson2699",
+                "repo": "swift-ios-skills",
+                "stars": 1031
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI and Machine Learning"
         },
         {
           "children": [
@@ -225,7 +313,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1028
+                "stars": 1031
               }
             },
             {
@@ -240,7 +328,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1028
+                "stars": 1031
               }
             },
             {
@@ -255,7 +343,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1028
+                "stars": 1031
               }
             }
           ],
@@ -277,7 +365,7 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -292,7 +380,7 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             },
             {
@@ -307,13 +395,57 @@
                 "last_commit": "2026-03-29T15:28:02Z",
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3915
+                "stars": 3918
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Workflow and Automation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iOS Accessibility",
+              "description": "VoiceOver support, accessibility modifiers, and Dynamic Type patterns for iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171184177,
+                "language": "Python",
+                "last_commit": "2026-07-31T20:22:45Z",
+                "owner": "dpearson2699",
+                "repo": "swift-ios-skills",
+                "stars": 1031
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Accessibility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftWasm Skills",
+              "description": "Swift on WebAssembly with JavaScript interop, BridgeJS, and compatibility checks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132072224,
+                "language": "Python",
+                "last_commit": "2026-08-10T01:08:06Z",
+                "owner": "swiftwasm",
+                "repo": "Swift-Wasm-Agent-Skill",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebAssembly"
         }
       ],
       "title": "Skills"
@@ -366,10 +498,10 @@
             "archived": false,
             "id": 1000362065,
             "language": "Python",
-            "last_commit": "2026-08-21T09:25:36Z",
+            "last_commit": "2026-08-24T02:10:57Z",
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 38151
+            "stars": 38189
           }
         },
         {
@@ -384,7 +516,7 @@
             "last_commit": "2026-08-12T20:00:35Z",
             "owner": "getsentry",
             "repo": "XcodeBuildMCP",
-            "stars": 6274
+            "stars": 6276
           }
         },
         {
@@ -399,7 +531,7 @@
             "last_commit": "2026-05-07T08:37:25Z",
             "owner": "modelcontextprotocol",
             "repo": "swift-sdk",
-            "stars": 1470
+            "stars": 1471
           }
         },
         {
@@ -452,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:47:04.439Z",
+    "last_updated": "2026-08-24T14:41:12.209Z",
     "original_repository": "Techopolis/awesome-ios-ai",
     "original_repository_id": 1176895198,
     "original_repository_sha": "e77e8d1fc2dfc5368702c3f8d44ce2f27348df65",
