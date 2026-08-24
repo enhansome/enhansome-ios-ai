@@ -18,12 +18,12 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### SwiftUI
 
-* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 4,576 | 🐛 11 | 📅 2026-04-20 - Modern APIs, accessibility, data flow, navigation, and performance.
+* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 4,577 | 🐛 11 | 📅 2026-04-20 - Modern APIs, accessibility, data flow, navigation, and performance.
 * [SwiftUI Performance Audit](https://github.com/Dimillian/Skills/tree/main/swiftui-performance-audit) ⭐ 3,918 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.
 * [SwiftUI View Refactor](https://github.com/Dimillian/Skills/tree/main/swiftui-view-refactor) ⭐ 3,918 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Consistent view structure, MV patterns, @Observable usage, and dependency injection.
 * [SwiftUI UI Patterns](https://github.com/Dimillian/Skills/tree/main/swiftui-ui-patterns) ⭐ 3,918 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Component references for TabView, NavigationStack, Sheets, and view composition.
 * [SwiftUI Liquid Glass](https://github.com/Dimillian/Skills/tree/main/swiftui-liquid-glass) ⭐ 3,918 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - iOS 26+ Liquid Glass API with `glassEffect`, `GlassEffectContainer`, and availability fallbacks.
-* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,443 | 🐛 3 | 🌐 Python | 📅 2026-08-12 - State management, view composition, performance, and iOS 26+ Liquid Glass.
+* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,444 | 🐛 3 | 🌐 Python | 📅 2026-08-12 - State management, view composition, performance, and iOS 26+ Liquid Glass.
 
 ### Swift Concurrency
 
