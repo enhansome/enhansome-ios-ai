@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-20T08:02:42Z",
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4610
+                "stars": 4612
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-12T13:34:21Z",
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3460
+                "stars": 3463
               }
             }
           ],
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-12T12:46:55Z",
                 "owner": "AvdLee",
                 "repo": "Swift-Concurrency-Agent-Skill",
-                "stars": 1628
+                "stars": 1630
               }
             }
           ],
@@ -173,7 +173,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -254,7 +254,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1037
+                "stars": 1038
               }
             }
           ],
@@ -313,7 +313,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -328,7 +328,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1037
+                "stars": 1038
               }
             },
             {
@@ -343,7 +343,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1037
+                "stars": 1038
               }
             }
           ],
@@ -417,7 +417,7 @@
                 "last_commit": "2026-07-31T20:22:45Z",
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1037
+                "stars": 1038
               }
             }
           ],
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-27T09:18:20Z",
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 38296
+            "stars": 38329
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-08-12T20:00:35Z",
             "owner": "getsentry",
             "repo": "XcodeBuildMCP",
-            "stars": 6295
+            "stars": 6300
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:35.640Z",
+    "last_updated": "2026-08-27T23:51:13.940Z",
     "original_repository_info": {
       "archived": false,
       "id": 1176895198,
