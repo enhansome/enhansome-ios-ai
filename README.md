@@ -36,7 +36,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### Data and Persistence
 
-* [SwiftData](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/swiftdata) ⭐ 1,044 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - @Model schemas, @Query, predicates, relationships, and migration patterns.
+* [SwiftData](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/swiftdata) ⭐ 1,045 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - @Model schemas, @Query, predicates, relationships, and migration patterns.
 * [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill) ⭐ 302 | 🐛 2 | 📅 2026-08-07 - Data modeling, fetch requests, CloudKit sync, migration, and performance.
 
 ### Testing
@@ -49,7 +49,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### AI and Machine Learning
 
-* [Apple On-Device AI](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/apple-on-device-ai) ⭐ 1,044 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Foundation Models, on-device inference, and Apple Intelligence integration.
+* [Apple On-Device AI](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/apple-on-device-ai) ⭐ 1,045 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Foundation Models, on-device inference, and Apple Intelligence integration.
 
 ### Design and Platform
 
@@ -58,9 +58,9 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### App Frameworks
 
-* [App Intents](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/app-intents) ⭐ 1,044 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Siri, Shortcuts, and App Intents framework integration.
-* [Live Activities](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/live-activities) ⭐ 1,044 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Dynamic Island and Lock Screen live updates with ActivityKit.
-* [WidgetKit](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/widgetkit) ⭐ 1,044 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Home Screen and Lock Screen widget development.
+* [App Intents](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/app-intents) ⭐ 1,045 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Siri, Shortcuts, and App Intents framework integration.
+* [Live Activities](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/live-activities) ⭐ 1,045 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Dynamic Island and Lock Screen live updates with ActivityKit.
+* [WidgetKit](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/widgetkit) ⭐ 1,045 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Home Screen and Lock Screen widget development.
 
 ### Workflow and Automation
 
@@ -70,7 +70,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### Accessibility
 
-* [iOS Accessibility](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/ios-accessibility) ⭐ 1,044 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - VoiceOver support, accessibility modifiers, and Dynamic Type patterns for iOS.
+* [iOS Accessibility](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/ios-accessibility) ⭐ 1,045 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - VoiceOver support, accessibility modifiers, and Dynamic Type patterns for iOS.
 
 ### WebAssembly
 
@@ -83,7 +83,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ## MCP Servers
 
-* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 38,383 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-28 - Search and install agents, skills, and MCP servers from GitHub.
+* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 38,388 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-28 - Search and install agents, skills, and MCP servers from GitHub.
 * [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,309 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12 - Build, run, test, and debug Xcode projects from AI agents.
 * [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) ⭐ 1,478 | 🐛 98 | 🌐 Swift | 📅 2026-05-07 - Official Swift SDK for building MCP servers and clients.
 * [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) ⭐ 1,366 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-17 - Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.
@@ -92,7 +92,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ## Tools
 
-* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,284 | 🐛 234 | 🌐 Swift | 📅 2026-08-28 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
+* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,285 | 🐛 234 | 🌐 Swift | 📅 2026-08-28 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
 
 ## Resources
 
@@ -111,4 +111,4 @@ Created by [Taylor Arndt](https://github.com/taylorarndt). Maintained by [Techop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

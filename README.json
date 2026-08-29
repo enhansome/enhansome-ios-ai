@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+                "homepage": null,
                 "id": 1173845549,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-20T08:02:42Z",
+                "open_issues": 11,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4619
+                "stars": 4619,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).",
+                "homepage": null,
                 "id": 1139114532,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-12T13:34:21Z",
+                "open_issues": 3,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3464
+                "stars": 3464,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -115,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -131,12 +166,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.",
+                "homepage": "https://www.swiftconcurrencycourse.com",
                 "id": 1129568168,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-12T12:46:55Z",
+                "open_issues": 6,
                 "owner": "AvdLee",
                 "repo": "Swift-Concurrency-Agent-Skill",
-                "stars": 1632
+                "stars": 1632,
+                "topics": [
+                  "agent-skills",
+                  "async-await",
+                  "swift",
+                  "swift-actor",
+                  "swift-concurrency"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -154,12 +200,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skill for Swift architecture design and implementation patterns.",
+                "homepage": null,
                 "id": 1157511953,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T08:23:57Z",
+                "open_issues": 0,
                 "owner": "efremidze",
                 "repo": "swift-architecture-skill",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "agent",
+                  "agent-skills",
+                  "ios",
+                  "swift",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -177,12 +234,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks",
+                "homepage": "https://skills.sh",
                 "id": 1171184177,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T20:22:45Z",
+                "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1044
+                "stars": 1045,
+                "topics": [
+                  "accessibility",
+                  "agent-skills",
+                  "ai-coding",
+                  "apple",
+                  "claude-code",
+                  "codex-skills",
+                  "cursor-skills",
+                  "ios",
+                  "ios-development",
+                  "liquid-glass",
+                  "localization",
+                  "mapkit",
+                  "networking",
+                  "storekit",
+                  "swift",
+                  "swift-concurrency",
+                  "swiftdata",
+                  "swiftui",
+                  "widgetkit",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -193,12 +276,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Agent Skill focused on Apple’s Core Data framework, helping with data modeling, fetch requests, performance, and common persistence patterns.",
+                "homepage": "https://www.avanderlee.com",
                 "id": 1145792187,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-07T13:38:46Z",
+                "open_issues": 2,
                 "owner": "AvdLee",
                 "repo": "Core-Data-Agent-Skill",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "agent-skill",
+                  "coredata",
+                  "ios-development",
+                  "swift-development",
+                  "swift-language"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -216,12 +310,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agent skill focused entirely on Swift Testing, helping you write better tests, migrate from XCTest, improve test architecture, and adopt modern Swift testing patterns with confidence.",
+                "homepage": null,
                 "id": 1156416181,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-07T13:39:14Z",
+                "open_issues": 4,
                 "owner": "AvdLee",
                 "repo": "Swift-Testing-Agent-Skill",
-                "stars": 442
+                "stars": 442,
+                "topics": [
+                  "agent-skills",
+                  "swift",
+                  "swift-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -239,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -262,12 +370,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks",
+                "homepage": "https://skills.sh",
                 "id": 1171184177,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T20:22:45Z",
+                "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1044
+                "stars": 1045,
+                "topics": [
+                  "accessibility",
+                  "agent-skills",
+                  "ai-coding",
+                  "apple",
+                  "claude-code",
+                  "codex-skills",
+                  "cursor-skills",
+                  "ios",
+                  "ios-development",
+                  "liquid-glass",
+                  "localization",
+                  "mapkit",
+                  "networking",
+                  "storekit",
+                  "swift",
+                  "swift-concurrency",
+                  "swiftdata",
+                  "swiftui",
+                  "widgetkit",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -285,12 +419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of agents and skills to aid in the planning, implementation, documentation and testing of Swift/TCA code.",
+                "homepage": null,
                 "id": 1119915972,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-18T05:24:16Z",
+                "open_issues": 3,
                 "owner": "johnrogers",
                 "repo": "claude-swift-engineering",
-                "stars": 228
+                "stars": 228,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -301,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of agents and skills to aid in the planning, implementation, documentation and testing of Swift/TCA code.",
+                "homepage": null,
                 "id": 1119915972,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-18T05:24:16Z",
+                "open_issues": 3,
                 "owner": "johnrogers",
                 "repo": "claude-swift-engineering",
-                "stars": 228
+                "stars": 228,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -324,12 +468,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks",
+                "homepage": "https://skills.sh",
                 "id": 1171184177,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T20:22:45Z",
+                "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1044
+                "stars": 1045,
+                "topics": [
+                  "accessibility",
+                  "agent-skills",
+                  "ai-coding",
+                  "apple",
+                  "claude-code",
+                  "codex-skills",
+                  "cursor-skills",
+                  "ios",
+                  "ios-development",
+                  "liquid-glass",
+                  "localization",
+                  "mapkit",
+                  "networking",
+                  "storekit",
+                  "swift",
+                  "swift-concurrency",
+                  "swiftdata",
+                  "swiftui",
+                  "widgetkit",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -340,12 +510,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks",
+                "homepage": "https://skills.sh",
                 "id": 1171184177,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T20:22:45Z",
+                "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1044
+                "stars": 1045,
+                "topics": [
+                  "accessibility",
+                  "agent-skills",
+                  "ai-coding",
+                  "apple",
+                  "claude-code",
+                  "codex-skills",
+                  "cursor-skills",
+                  "ios",
+                  "ios-development",
+                  "liquid-glass",
+                  "localization",
+                  "mapkit",
+                  "networking",
+                  "storekit",
+                  "swift",
+                  "swift-concurrency",
+                  "swiftdata",
+                  "swiftui",
+                  "widgetkit",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -356,12 +552,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks",
+                "homepage": "https://skills.sh",
                 "id": 1171184177,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T20:22:45Z",
+                "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1044
+                "stars": 1045,
+                "topics": [
+                  "accessibility",
+                  "agent-skills",
+                  "ai-coding",
+                  "apple",
+                  "claude-code",
+                  "codex-skills",
+                  "cursor-skills",
+                  "ios",
+                  "ios-development",
+                  "liquid-glass",
+                  "localization",
+                  "mapkit",
+                  "networking",
+                  "storekit",
+                  "swift",
+                  "swift-concurrency",
+                  "swiftdata",
+                  "swiftui",
+                  "widgetkit",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -379,12 +601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -395,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             },
@@ -411,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Codex Skills",
+                "homepage": null,
                 "id": 1125330672,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-29T15:28:02Z",
+                "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3928
+                "stars": 3928,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -434,12 +671,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks",
+                "homepage": "https://skills.sh",
                 "id": 1171184177,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T20:22:45Z",
+                "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1044
+                "stars": 1045,
+                "topics": [
+                  "accessibility",
+                  "agent-skills",
+                  "ai-coding",
+                  "apple",
+                  "claude-code",
+                  "codex-skills",
+                  "cursor-skills",
+                  "ios",
+                  "ios-development",
+                  "liquid-glass",
+                  "localization",
+                  "mapkit",
+                  "networking",
+                  "storekit",
+                  "swift",
+                  "swift-concurrency",
+                  "swiftdata",
+                  "swiftui",
+                  "widgetkit",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -457,12 +720,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Agent Skills designed to help AI coding agents build and maintain Swift applications targeting WebAssembly.",
+                "homepage": null,
                 "id": 1132072224,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-10T01:08:06Z",
+                "open_issues": 0,
                 "owner": "swiftwasm",
                 "repo": "Swift-Wasm-Agent-Skill",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
             }
@@ -484,12 +752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of agents and skills to aid in the planning, implementation, documentation and testing of Swift/TCA code.",
+            "homepage": null,
             "id": 1119915972,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-18T05:24:16Z",
+            "open_issues": 3,
             "owner": "johnrogers",
             "repo": "claude-swift-engineering",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         },
@@ -500,12 +773,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A team of specialized Swift agents for Claude Code. Swift 6.2 concurrency, Apple Foundation Models, on-device AI, SwiftUI, accessibility, security, testing, and App Store compliance — enforced on every prompt.",
+            "homepage": null,
             "id": 1164024315,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-25T04:18:40Z",
+            "open_issues": 5,
             "owner": "Techopolis",
             "repo": "swift-agents",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "accessibility",
+              "ai-agents",
+              "app-store",
+              "apple",
+              "claude",
+              "claude-code",
+              "concurrency",
+              "core-ml",
+              "developer-tools",
+              "ios",
+              "macos",
+              "swift",
+              "swift6",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         }
@@ -522,12 +815,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+            "homepage": "https://awesome-copilot.github.com/",
             "id": 1000362065,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:10:55Z",
+            "open_issues": 37,
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 38383
+            "stars": 38388,
+            "topics": [
+              "agent-skills",
+              "agents",
+              "ai",
+              "awesome",
+              "custom-agents",
+              "github-copilot",
+              "hacktoberfest",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         },
@@ -538,12 +845,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+            "homepage": "https://www.xcodebuildmcp.com",
             "id": 945551361,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T20:00:35Z",
+            "open_issues": 22,
             "owner": "getsentry",
             "repo": "XcodeBuildMCP",
-            "stars": 6309
+            "stars": 6309,
+            "topics": [
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "model-context-protocol-servers",
+              "tag-non-production",
+              "xcode",
+              "xcodebuild"
+            ]
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         },
@@ -554,12 +874,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Swift SDK for Model Context Protocol servers and clients.",
+            "homepage": null,
             "id": 927967893,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-07T08:37:25Z",
+            "open_issues": 98,
             "owner": "modelcontextprotocol",
             "repo": "swift-sdk",
-            "stars": 1478
+            "stars": 1478,
+            "topics": [
+              "mcp",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         },
@@ -570,12 +898,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Objective-C APIs & code examples in Claude, Cursor & AI assistants",
+            "homepage": "https://www.npmjs.com/package/@kimsungwhee/apple-docs-mcp",
             "id": 1019972614,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-17T02:39:50Z",
+            "open_issues": 14,
             "owner": "kimsungwhee",
             "repo": "apple-docs-mcp",
-            "stars": 1366
+            "stars": 1366,
+            "topics": [
+              "ai-assistant",
+              "api-documentation",
+              "apple",
+              "apple-developer-docs-mcp",
+              "apple-developer-documentation",
+              "apple-docs-mcp",
+              "apple-documentation",
+              "claude",
+              "claude-code",
+              "cursor",
+              "documentation",
+              "ios-development",
+              "macos-development",
+              "mcp",
+              "model-context-protocol",
+              "objective-c",
+              "swift",
+              "swift-mcp",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         },
@@ -586,12 +939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Server implementation for Xcode integration",
+            "homepage": null,
             "id": 917661541,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-02T11:23:41Z",
+            "open_issues": 1,
             "owner": "r-huijts",
             "repo": "xcode-mcp-server",
-            "stars": 385
+            "stars": 385,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         },
@@ -602,12 +960,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server providing curated Swift and SwiftUI best practices from leading iOS sources.",
+            "homepage": null,
             "id": 1132658106,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-20T05:31:34Z",
+            "open_issues": 26,
             "owner": "efremidze",
             "repo": "swift-patterns-mcp",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "claude-code",
+              "ios",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "patreon",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
         }
@@ -616,15 +988,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:36:03.411Z",
+    "last_updated": "2026-08-29T04:58:59.111Z",
     "original_repository_info": {
       "archived": false,
+      "description": "AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.",
+      "homepage": null,
       "id": 1176895198,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2026-04-25T04:18:43Z",
+      "open_issues": 5,
       "owner": "Techopolis",
       "repo": "awesome-ios-ai",
-      "stars": 99
+      "stars": 99,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "awesome",
+        "awesome-list",
+        "claude-code",
+        "copilot",
+        "ios",
+        "mcp",
+        "swift",
+        "swiftui"
+      ]
     },
     "original_repository_sha": "e77e8d1fc2dfc5368702c3f8d44ce2f27348df65",
     "enhanced_repository": "enhansome/enhansome-ios-ai",
