@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4794,
+                "stars": 4808,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -126,7 +126,7 @@
                 "open_issues": 4,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3582,
+                "stars": 3587,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -175,7 +175,7 @@
                 "open_issues": 6,
                 "owner": "AvdLee",
                 "repo": "Swift-Concurrency-Agent-Skill",
-                "stars": 1656,
+                "stars": 1657,
                 "topics": [
                   "agent-skills",
                   "async-await",
@@ -209,7 +209,7 @@
                 "open_issues": 0,
                 "owner": "efremidze",
                 "repo": "swift-architecture-skill",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -243,7 +243,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -319,7 +319,7 @@
                 "open_issues": 4,
                 "owner": "AvdLee",
                 "repo": "Swift-Testing-Agent-Skill",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "agent-skills",
                   "swift",
@@ -379,7 +379,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -428,7 +428,7 @@
                 "open_issues": 3,
                 "owner": "johnrogers",
                 "repo": "claude-swift-engineering",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -449,7 +449,7 @@
                 "open_issues": 3,
                 "owner": "johnrogers",
                 "repo": "claude-swift-engineering",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -477,7 +477,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -519,7 +519,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -561,7 +561,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -680,7 +680,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -761,7 +761,7 @@
             "open_issues": 3,
             "owner": "johnrogers",
             "repo": "claude-swift-engineering",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-28T23:36:03.411Z"
@@ -820,11 +820,11 @@
             "id": 1000362065,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:53:10Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-19T20:53:58Z",
+            "open_issues": 69,
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 39162,
+            "stars": 39191,
             "topics": [
               "agent-skills",
               "agents",
@@ -851,10 +851,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T03:39:14Z",
-            "open_issues": 23,
+            "open_issues": 22,
             "owner": "getsentry",
             "repo": "XcodeBuildMCP",
-            "stars": 6404,
+            "stars": 6405,
             "topics": [
               "mcp",
               "mcp-server",
@@ -907,7 +907,7 @@
             "open_issues": 14,
             "owner": "kimsungwhee",
             "repo": "apple-docs-mcp",
-            "stars": 1379,
+            "stars": 1380,
             "topics": [
               "ai-assistant",
               "api-documentation",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:20:55.306Z",
+    "last_updated": "2026-09-20T17:33:06.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.",
