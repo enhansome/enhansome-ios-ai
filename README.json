@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4858,
+                "stars": 4863,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -126,7 +126,7 @@
                 "open_issues": 4,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3619,
+                "stars": 3621,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -175,7 +175,7 @@
                 "open_issues": 5,
                 "owner": "AvdLee",
                 "repo": "Swift-Concurrency-Agent-Skill",
-                "stars": 1665,
+                "stars": 1668,
                 "topics": [
                   "agent-skills",
                   "async-await",
@@ -205,8 +205,8 @@
                 "id": 1157511953,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-27T16:42:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-28T06:13:48Z",
+                "open_issues": 0,
                 "owner": "efremidze",
                 "repo": "swift-architecture-skill",
                 "stars": 70,
@@ -821,10 +821,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-27T03:04:06Z",
-            "open_issues": 81,
+            "open_issues": 86,
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 39447,
+            "stars": 39479,
             "topics": [
               "agent-skills",
               "agents",
@@ -854,7 +854,7 @@
             "open_issues": 23,
             "owner": "getsentry",
             "repo": "MobileBuildMCP",
-            "stars": 6434,
+            "stars": 6440,
             "topics": [
               "mcp",
               "mcp-server",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:33:41.167Z",
+    "last_updated": "2026-09-28T20:38:53.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.",
