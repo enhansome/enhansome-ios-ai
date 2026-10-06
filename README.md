@@ -18,12 +18,12 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### SwiftUI
 
-* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 4,975 | 🐛 10 | 📅 2026-04-20 - Modern APIs, accessibility, data flow, navigation, and performance.
+* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 4,978 | 🐛 10 | 📅 2026-04-20 - Modern APIs, accessibility, data flow, navigation, and performance.
 * [SwiftUI Performance Audit](https://github.com/Dimillian/Skills/tree/main/swiftui-performance-audit) ⭐ 3,984 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.
 * [SwiftUI View Refactor](https://github.com/Dimillian/Skills/tree/main/swiftui-view-refactor) ⭐ 3,984 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Consistent view structure, MV patterns, @Observable usage, and dependency injection.
 * [SwiftUI UI Patterns](https://github.com/Dimillian/Skills/tree/main/swiftui-ui-patterns) ⭐ 3,984 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Component references for TabView, NavigationStack, Sheets, and view composition.
 * [SwiftUI Liquid Glass](https://github.com/Dimillian/Skills/tree/main/swiftui-liquid-glass) ⭐ 3,984 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - iOS 26+ Liquid Glass API with `glassEffect`, `GlassEffectContainer`, and availability fallbacks.
-* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,659 | 🐛 4 | 🌐 Python | 📅 2026-10-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
+* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,664 | 🐛 5 | 🌐 Python | 📅 2026-10-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
 
 ### Swift Concurrency
 
@@ -83,16 +83,16 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ## MCP Servers
 
-* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 39,730 | 🐛 143 | 🌐 JavaScript | 📅 2026-10-04 - Search and install agents, skills, and MCP servers from GitHub.
+* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 39,743 | 🐛 149 | 🌐 JavaScript | 📅 2026-10-06 - Search and install agents, skills, and MCP servers from GitHub.
 * [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,460 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-02 - Build, run, test, and debug Xcode projects from AI agents.
 * [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) ⭐ 1,508 | 🐛 120 | 🌐 Swift | 📅 2026-05-07 - Official Swift SDK for building MCP servers and clients.
-* [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) ⭐ 1,382 | 🐛 16 | 🌐 TypeScript | 📅 2026-03-17 - Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.
+* [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) ⭐ 1,381 | 🐛 16 | 🌐 TypeScript | 📅 2026-03-17 - Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.
 * [Xcode MCP Server](https://github.com/r-huijts/xcode-mcp-server) ⭐ 385 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-02 - Xcode project management, simulator control, and build automation for AI assistants.
 * [Swift Patterns MCP](https://github.com/efremidze/swift-patterns-mcp) ⭐ 12 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-21 - Swift and SwiftUI best practices from leading iOS developers with intelligent search across YouTube, Patreon, and other sources.
 
 ## Tools
 
-* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,316 | 🐛 251 | 🌐 Swift | 📅 2026-10-05 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
+* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,318 | 🐛 251 | 🌐 Swift | 📅 2026-10-05 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
 
 ## Resources
 

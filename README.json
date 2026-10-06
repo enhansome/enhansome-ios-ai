@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 4975,
+                "stars": 4978,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -123,10 +123,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T06:57:28Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3659,
+                "stars": 3664,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -820,11 +820,11 @@
             "id": 1000362065,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T23:45:13Z",
-            "open_issues": 143,
+            "last_commit": "2026-10-06T19:02:17Z",
+            "open_issues": 149,
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 39730,
+            "stars": 39743,
             "topics": [
               "agent-skills",
               "agents",
@@ -907,7 +907,7 @@
             "open_issues": 16,
             "owner": "kimsungwhee",
             "repo": "apple-docs-mcp",
-            "stars": 1382,
+            "stars": 1381,
             "topics": [
               "ai-assistant",
               "api-documentation",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:11.935Z",
+    "last_updated": "2026-10-06T19:38:22.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.",
