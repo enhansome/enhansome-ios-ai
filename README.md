@@ -18,17 +18,17 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### SwiftUI
 
-* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 5,936 | 🐛 13 | 📅 2026-10-07 - Modern APIs, accessibility, data flow, navigation, and performance.
-* [SwiftUI Performance Audit](https://github.com/Dimillian/Skills/tree/main/swiftui-performance-audit) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.
-* [SwiftUI View Refactor](https://github.com/Dimillian/Skills/tree/main/swiftui-view-refactor) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Consistent view structure, MV patterns, @Observable usage, and dependency injection.
-* [SwiftUI UI Patterns](https://github.com/Dimillian/Skills/tree/main/swiftui-ui-patterns) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Component references for TabView, NavigationStack, Sheets, and view composition.
-* [SwiftUI Liquid Glass](https://github.com/Dimillian/Skills/tree/main/swiftui-liquid-glass) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - iOS 26+ Liquid Glass API with `glassEffect`, `GlassEffectContainer`, and availability fallbacks.
-* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,688 | 🐛 10 | 🌐 Python | 📅 2026-10-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
+* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 6,060 | 🐛 13 | 📅 2026-10-07 - Modern APIs, accessibility, data flow, navigation, and performance.
+* [SwiftUI Performance Audit](https://github.com/Dimillian/Skills/tree/main/swiftui-performance-audit) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.
+* [SwiftUI View Refactor](https://github.com/Dimillian/Skills/tree/main/swiftui-view-refactor) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Consistent view structure, MV patterns, @Observable usage, and dependency injection.
+* [SwiftUI UI Patterns](https://github.com/Dimillian/Skills/tree/main/swiftui-ui-patterns) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Component references for TabView, NavigationStack, Sheets, and view composition.
+* [SwiftUI Liquid Glass](https://github.com/Dimillian/Skills/tree/main/swiftui-liquid-glass) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - iOS 26+ Liquid Glass API with `glassEffect`, `GlassEffectContainer`, and availability fallbacks.
+* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,698 | 🐛 10 | 🌐 Python | 📅 2026-10-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
 
 ### Swift Concurrency
 
-* [Swift Concurrency Expert](https://github.com/Dimillian/Skills/tree/main/swift-concurrency-expert) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Swift 6.2+ actor isolation, data-race safety, and minimal-change fixes for compiler errors.
-* [Swift Concurrency](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) ⭐ 1,680 | 🐛 6 | 📅 2026-09-14 - Async/await, actors, Sendable, and strict concurrency for Swift 6.
+* [Swift Concurrency Expert](https://github.com/Dimillian/Skills/tree/main/swift-concurrency-expert) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Swift 6.2+ actor isolation, data-race safety, and minimal-change fixes for compiler errors.
+* [Swift Concurrency](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) ⭐ 1,681 | 🐛 6 | 📅 2026-09-14 - Async/await, actors, Sendable, and strict concurrency for Swift 6.
 
 ### Architecture
 
@@ -45,7 +45,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### Debugging
 
-* [iOS Debugger Agent](https://github.com/Dimillian/Skills/tree/main/ios-debugger-agent) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Build, run, and debug iOS apps on simulators via XcodeBuildMCP.
+* [iOS Debugger Agent](https://github.com/Dimillian/Skills/tree/main/ios-debugger-agent) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Build, run, and debug iOS apps on simulators via XcodeBuildMCP.
 
 ### AI and Machine Learning
 
@@ -64,9 +64,9 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### Workflow and Automation
 
-* [App Store Changelog](https://github.com/Dimillian/Skills/tree/main/app-store-changelog) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Generate App Store release notes from Git history.
-* [GH Issue Fix Flow](https://github.com/Dimillian/Skills/tree/main/github) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - End-to-end GitHub issue resolution with read, fix, build, test, and push.
-* [macOS SwiftPM Packaging](https://github.com/Dimillian/Skills/tree/main/macos-spm-app-packaging) ⭐ 3,997 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Scaffold, build, and package SwiftPM macOS apps without Xcode.
+* [App Store Changelog](https://github.com/Dimillian/Skills/tree/main/app-store-changelog) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Generate App Store release notes from Git history.
+* [GH Issue Fix Flow](https://github.com/Dimillian/Skills/tree/main/github) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - End-to-end GitHub issue resolution with read, fix, build, test, and push.
+* [macOS SwiftPM Packaging](https://github.com/Dimillian/Skills/tree/main/macos-spm-app-packaging) ⭐ 3,998 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Scaffold, build, and package SwiftPM macOS apps without Xcode.
 
 ### Accessibility
 
@@ -79,13 +79,13 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 ## Agents
 
 * [Claude Swift Engineering](https://github.com/johnrogers/claude-swift-engineering) ⭐ 231 | 🐛 3 | 🌐 Python | 📅 2026-01-18 - Eleven agents for planning, implementing, reviewing, and testing Swift and TCA code.
-* [Swift Agents](https://github.com/Techopolis/swift-agents) ⭐ 38 | 🐛 5 | 🌐 Shell | 📅 2026-04-25 - Sixteen orchestrated specialists covering concurrency, SwiftUI, accessibility, security, testing, StoreKit, SwiftData, visionOS, Core ML, MLX, and Foundation Models.
+* [Swift Agents](https://github.com/Techopolis/swift-agents) ⭐ 39 | 🐛 5 | 🌐 Shell | 📅 2026-04-25 - Sixteen orchestrated specialists covering concurrency, SwiftUI, accessibility, security, testing, StoreKit, SwiftData, visionOS, Core ML, MLX, and Foundation Models.
 
 ## MCP Servers
 
-* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 40,013 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-14 - Search and install agents, skills, and MCP servers from GitHub.
-* [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,479 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-09 - Build, run, test, and debug Xcode projects from AI agents.
-* [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) ⭐ 1,508 | 🐛 120 | 🌐 Swift | 📅 2026-05-07 - Official Swift SDK for building MCP servers and clients.
+* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 40,047 | 🐛 63 | 🌐 JavaScript | 📅 2026-10-15 - Search and install agents, skills, and MCP servers from GitHub.
+* [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,483 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-09 - Build, run, test, and debug Xcode projects from AI agents.
+* [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) ⭐ 1,511 | 🐛 120 | 🌐 Swift | 📅 2026-05-07 - Official Swift SDK for building MCP servers and clients.
 * [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) ⭐ 1,385 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-17 - Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.
 * [Xcode MCP Server](https://github.com/r-huijts/xcode-mcp-server) ⭐ 385 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-02 - Xcode project management, simulator control, and build automation for AI assistants.
 * [Swift Patterns MCP](https://github.com/efremidze/swift-patterns-mcp) ⭐ 12 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-21 - Swift and SwiftUI best practices from leading iOS developers with intelligent search across YouTube, Patreon, and other sources.
@@ -111,4 +111,4 @@ Created by [Taylor Arndt](https://github.com/taylorarndt). Maintained by [Techop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

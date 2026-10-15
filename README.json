@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 5936,
+                "stars": 6060,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -63,7 +63,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -84,7 +84,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -105,7 +105,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -126,7 +126,7 @@
                 "open_issues": 10,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3688,
+                "stars": 3698,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -154,7 +154,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -175,7 +175,7 @@
                 "open_issues": 6,
                 "owner": "AvdLee",
                 "repo": "Swift-Concurrency-Agent-Skill",
-                "stars": 1680,
+                "stars": 1681,
                 "topics": [
                   "agent-skills",
                   "async-await",
@@ -351,7 +351,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -610,7 +610,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -631,7 +631,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -652,7 +652,7 @@
                 "open_issues": 11,
                 "owner": "Dimillian",
                 "repo": "Skills",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -782,7 +782,7 @@
             "open_issues": 5,
             "owner": "Techopolis",
             "repo": "swift-agents",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "accessibility",
               "ai-agents",
@@ -820,11 +820,11 @@
             "id": 1000362065,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:53:15Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-15T13:53:59Z",
+            "open_issues": 63,
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 40013,
+            "stars": 40047,
             "topics": [
               "agent-skills",
               "agents",
@@ -851,10 +851,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-09T03:47:28Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "getsentry",
             "repo": "MobileBuildMCP",
-            "stars": 6479,
+            "stars": 6483,
             "topics": [
               "mcp",
               "mcp-server",
@@ -883,7 +883,7 @@
             "open_issues": 120,
             "owner": "modelcontextprotocol",
             "repo": "swift-sdk",
-            "stars": 1508,
+            "stars": 1511,
             "topics": [
               "mcp",
               "swift"
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:46:07.605Z",
+    "last_updated": "2026-10-15T18:27:33.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.",
@@ -997,7 +997,7 @@
       "language": "Shell",
       "license": "CC0-1.0",
       "last_commit": "2026-04-25T04:18:43Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "Techopolis",
       "repo": "awesome-ios-ai",
       "stars": 105,
