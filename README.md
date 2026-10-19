@@ -18,25 +18,25 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### SwiftUI
 
-* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 6,217 | 🐛 14 | 📅 2026-10-16 - Modern APIs, accessibility, data flow, navigation, and performance.
-* [SwiftUI Performance Audit](https://github.com/Dimillian/Skills/tree/main/swiftui-performance-audit) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.
-* [SwiftUI View Refactor](https://github.com/Dimillian/Skills/tree/main/swiftui-view-refactor) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Consistent view structure, MV patterns, @Observable usage, and dependency injection.
-* [SwiftUI UI Patterns](https://github.com/Dimillian/Skills/tree/main/swiftui-ui-patterns) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Component references for TabView, NavigationStack, Sheets, and view composition.
-* [SwiftUI Liquid Glass](https://github.com/Dimillian/Skills/tree/main/swiftui-liquid-glass) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - iOS 26+ Liquid Glass API with `glassEffect`, `GlassEffectContainer`, and availability fallbacks.
-* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,716 | 🐛 10 | 🌐 Python | 📅 2026-10-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
+* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 6,260 | 🐛 14 | 📅 2026-10-16 - Modern APIs, accessibility, data flow, navigation, and performance.
+* [SwiftUI Performance Audit](https://github.com/Dimillian/Skills/tree/main/swiftui-performance-audit) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.
+* [SwiftUI View Refactor](https://github.com/Dimillian/Skills/tree/main/swiftui-view-refactor) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Consistent view structure, MV patterns, @Observable usage, and dependency injection.
+* [SwiftUI UI Patterns](https://github.com/Dimillian/Skills/tree/main/swiftui-ui-patterns) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Component references for TabView, NavigationStack, Sheets, and view composition.
+* [SwiftUI Liquid Glass](https://github.com/Dimillian/Skills/tree/main/swiftui-liquid-glass) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - iOS 26+ Liquid Glass API with `glassEffect`, `GlassEffectContainer`, and availability fallbacks.
+* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,724 | 🐛 10 | 🌐 Python | 📅 2026-10-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
 
 ### Swift Concurrency
 
-* [Swift Concurrency Expert](https://github.com/Dimillian/Skills/tree/main/swift-concurrency-expert) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Swift 6.2+ actor isolation, data-race safety, and minimal-change fixes for compiler errors.
-* [Swift Concurrency](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) ⭐ 1,685 | 🐛 6 | 📅 2026-09-14 - Async/await, actors, Sendable, and strict concurrency for Swift 6.
+* [Swift Concurrency Expert](https://github.com/Dimillian/Skills/tree/main/swift-concurrency-expert) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Swift 6.2+ actor isolation, data-race safety, and minimal-change fixes for compiler errors.
+* [Swift Concurrency](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) ⭐ 1,687 | 🐛 6 | 📅 2026-09-14 - Async/await, actors, Sendable, and strict concurrency for Swift 6.
 
 ### Architecture
 
-* [Swift Architecture](https://github.com/efremidze/swift-architecture-skill) ⭐ 77 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - Select and apply MVP, MVVM, MVI, TCA, Clean Architecture, VIPER, Coordinator, and Reactive patterns with concrete playbooks, anti-pattern fixes, and review checklists.
+* [Swift Architecture](https://github.com/efremidze/swift-architecture-skill) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - Select and apply MVP, MVVM, MVI, TCA, Clean Architecture, VIPER, Coordinator, and Reactive patterns with concrete playbooks, anti-pattern fixes, and review checklists.
 
 ### Data and Persistence
 
-* [SwiftData](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/swiftdata) ⭐ 1,212 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - @Model schemas, @Query, predicates, relationships, and migration patterns.
+* [SwiftData](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/swiftdata) ⭐ 1,214 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - @Model schemas, @Query, predicates, relationships, and migration patterns.
 * [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill) ⭐ 318 | 🐛 2 | 📅 2026-09-14 - Data modeling, fetch requests, CloudKit sync, migration, and performance.
 
 ### Testing
@@ -45,11 +45,11 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### Debugging
 
-* [iOS Debugger Agent](https://github.com/Dimillian/Skills/tree/main/ios-debugger-agent) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Build, run, and debug iOS apps on simulators via XcodeBuildMCP.
+* [iOS Debugger Agent](https://github.com/Dimillian/Skills/tree/main/ios-debugger-agent) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Build, run, and debug iOS apps on simulators via XcodeBuildMCP.
 
 ### AI and Machine Learning
 
-* [Apple On-Device AI](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/apple-on-device-ai) ⭐ 1,212 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Foundation Models, on-device inference, and Apple Intelligence integration.
+* [Apple On-Device AI](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/apple-on-device-ai) ⭐ 1,214 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Foundation Models, on-device inference, and Apple Intelligence integration.
 
 ### Design and Platform
 
@@ -58,19 +58,19 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### App Frameworks
 
-* [App Intents](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/app-intents) ⭐ 1,212 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Siri, Shortcuts, and App Intents framework integration.
-* [Live Activities](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/live-activities) ⭐ 1,212 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Dynamic Island and Lock Screen live updates with ActivityKit.
-* [WidgetKit](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/widgetkit) ⭐ 1,212 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Home Screen and Lock Screen widget development.
+* [App Intents](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/app-intents) ⭐ 1,214 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Siri, Shortcuts, and App Intents framework integration.
+* [Live Activities](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/live-activities) ⭐ 1,214 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Dynamic Island and Lock Screen live updates with ActivityKit.
+* [WidgetKit](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/widgetkit) ⭐ 1,214 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Home Screen and Lock Screen widget development.
 
 ### Workflow and Automation
 
-* [App Store Changelog](https://github.com/Dimillian/Skills/tree/main/app-store-changelog) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Generate App Store release notes from Git history.
-* [GH Issue Fix Flow](https://github.com/Dimillian/Skills/tree/main/github) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - End-to-end GitHub issue resolution with read, fix, build, test, and push.
-* [macOS SwiftPM Packaging](https://github.com/Dimillian/Skills/tree/main/macos-spm-app-packaging) ⭐ 4,005 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Scaffold, build, and package SwiftPM macOS apps without Xcode.
+* [App Store Changelog](https://github.com/Dimillian/Skills/tree/main/app-store-changelog) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Generate App Store release notes from Git history.
+* [GH Issue Fix Flow](https://github.com/Dimillian/Skills/tree/main/github) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - End-to-end GitHub issue resolution with read, fix, build, test, and push.
+* [macOS SwiftPM Packaging](https://github.com/Dimillian/Skills/tree/main/macos-spm-app-packaging) ⭐ 4,006 | 🐛 11 | 🌐 Shell | 📅 2026-03-29 - Scaffold, build, and package SwiftPM macOS apps without Xcode.
 
 ### Accessibility
 
-* [iOS Accessibility](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/ios-accessibility) ⭐ 1,212 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - VoiceOver support, accessibility modifiers, and Dynamic Type patterns for iOS.
+* [iOS Accessibility](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/ios-accessibility) ⭐ 1,214 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - VoiceOver support, accessibility modifiers, and Dynamic Type patterns for iOS.
 
 ### WebAssembly
 
@@ -83,8 +83,8 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ## MCP Servers
 
-* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 40,148 | 🐛 84 | 🌐 JavaScript | 📅 2026-10-16 - Search and install agents, skills, and MCP servers from GitHub.
-* [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,487 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-17 - Build, run, test, and debug Xcode projects from AI agents.
+* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 40,188 | 🐛 103 | 🌐 JavaScript | 📅 2026-10-16 - Search and install agents, skills, and MCP servers from GitHub.
+* [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,488 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-17 - Build, run, test, and debug Xcode projects from AI agents.
 * [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) ⭐ 1,512 | 🐛 120 | 🌐 Swift | 📅 2026-05-07 - Official Swift SDK for building MCP servers and clients.
 * [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) ⭐ 1,385 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-17 - Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.
 * [Xcode MCP Server](https://github.com/r-huijts/xcode-mcp-server) ⭐ 386 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-02 - Xcode project management, simulator control, and build automation for AI assistants.
@@ -92,7 +92,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ## Tools
 
-* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,342 | 🐛 255 | 🌐 Swift | 📅 2026-10-16 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
+* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,345 | 🐛 258 | 🌐 Swift | 📅 2026-10-19 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
 
 ## Resources
 
@@ -111,4 +111,4 @@ Created by [Taylor Arndt](https://github.com/taylorarndt). Maintained by [Techop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
