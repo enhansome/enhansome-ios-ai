@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 6407,
+                "stars": 6415,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -126,7 +126,7 @@
                 "open_issues": 11,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3786,
+                "stars": 3794,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -175,7 +175,7 @@
                 "open_issues": 6,
                 "owner": "AvdLee",
                 "repo": "Swift-Concurrency-Agent-Skill",
-                "stars": 1696,
+                "stars": 1698,
                 "topics": [
                   "agent-skills",
                   "async-await",
@@ -243,7 +243,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1255,
+                "stars": 1262,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -379,7 +379,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1255,
+                "stars": 1262,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -477,7 +477,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1255,
+                "stars": 1262,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -519,7 +519,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1255,
+                "stars": 1262,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -561,7 +561,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1255,
+                "stars": 1262,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -680,7 +680,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1255,
+                "stars": 1262,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -820,11 +820,11 @@
             "id": 1000362065,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T13:51:27Z",
-            "open_issues": 87,
+            "last_commit": "2026-10-30T01:16:42Z",
+            "open_issues": 85,
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 40567,
+            "stars": 40604,
             "topics": [
               "agent-skills",
               "agents",
@@ -854,7 +854,7 @@
             "open_issues": 32,
             "owner": "getsentry",
             "repo": "MobileBuildMCP",
-            "stars": 6518,
+            "stars": 6525,
             "topics": [
               "mcp",
               "mcp-server",
@@ -883,7 +883,7 @@
             "open_issues": 116,
             "owner": "modelcontextprotocol",
             "repo": "swift-sdk",
-            "stars": 1534,
+            "stars": 1558,
             "topics": [
               "mcp",
               "swift"
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:44:39.076Z",
+    "last_updated": "2026-10-30T19:33:30.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.",
