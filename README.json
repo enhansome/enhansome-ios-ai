@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "twostraws",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 6424,
+                "stars": 6430,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -126,7 +126,7 @@
                 "open_issues": 12,
                 "owner": "AvdLee",
                 "repo": "SwiftUI-Agent-Skill",
-                "stars": 3797,
+                "stars": 3801,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:36:03.411Z"
@@ -243,7 +243,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1264,
+                "stars": 1266,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -285,7 +285,7 @@
                 "open_issues": 2,
                 "owner": "AvdLee",
                 "repo": "Core-Data-Agent-Skill",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "agent-skill",
                   "coredata",
@@ -319,7 +319,7 @@
                 "open_issues": 4,
                 "owner": "AvdLee",
                 "repo": "Swift-Testing-Agent-Skill",
-                "stars": 477,
+                "stars": 478,
                 "topics": [
                   "agent-skills",
                   "swift",
@@ -379,7 +379,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1264,
+                "stars": 1266,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -477,7 +477,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1264,
+                "stars": 1266,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -519,7 +519,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1264,
+                "stars": 1266,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -561,7 +561,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1264,
+                "stars": 1266,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -680,7 +680,7 @@
                 "open_issues": 0,
                 "owner": "dpearson2699",
                 "repo": "swift-ios-skills",
-                "stars": 1264,
+                "stars": 1266,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -821,10 +821,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-30T01:16:42Z",
-            "open_issues": 90,
+            "open_issues": 97,
             "owner": "github",
             "repo": "awesome-copilot",
-            "stars": 40626,
+            "stars": 40664,
             "topics": [
               "agent-skills",
               "agents",
@@ -850,11 +850,11 @@
             "id": 945551361,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T12:05:32Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-01T11:09:32Z",
+            "open_issues": 33,
             "owner": "getsentry",
             "repo": "MobileBuildMCP",
-            "stars": 6529,
+            "stars": 6532,
             "topics": [
               "mcp",
               "mcp-server",
@@ -883,7 +883,7 @@
             "open_issues": 110,
             "owner": "modelcontextprotocol",
             "repo": "swift-sdk",
-            "stars": 1559,
+            "stars": 1562,
             "topics": [
               "mcp",
               "swift"
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:39:51.282Z",
+    "last_updated": "2026-11-01T19:01:24.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.",
@@ -1000,7 +1000,7 @@
       "open_issues": 9,
       "owner": "Techopolis",
       "repo": "awesome-ios-ai",
-      "stars": 107,
+      "stars": 108,
       "topics": [
         "agent-skills",
         "ai",
