@@ -18,17 +18,17 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### SwiftUI
 
-* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 6,603 | 🐛 9 | 📅 2026-10-26 - Modern APIs, accessibility, data flow, navigation, and performance.
+* [SwiftUI Pro](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 6,612 | 🐛 9 | 📅 2026-10-26 - Modern APIs, accessibility, data flow, navigation, and performance.
 * [SwiftUI Performance Audit](https://github.com/Dimillian/Skills/tree/main/swiftui-performance-audit) ⭐ 4,035 | 🐛 12 | 🌐 Shell | 📅 2026-03-29 - Diagnose slow rendering, janky scrolling, excessive view updates, and layout thrash.
 * [SwiftUI View Refactor](https://github.com/Dimillian/Skills/tree/main/swiftui-view-refactor) ⭐ 4,035 | 🐛 12 | 🌐 Shell | 📅 2026-03-29 - Consistent view structure, MV patterns, @Observable usage, and dependency injection.
 * [SwiftUI UI Patterns](https://github.com/Dimillian/Skills/tree/main/swiftui-ui-patterns) ⭐ 4,035 | 🐛 12 | 🌐 Shell | 📅 2026-03-29 - Component references for TabView, NavigationStack, Sheets, and view composition.
 * [SwiftUI Liquid Glass](https://github.com/Dimillian/Skills/tree/main/swiftui-liquid-glass) ⭐ 4,035 | 🐛 12 | 🌐 Shell | 📅 2026-03-29 - iOS 26+ Liquid Glass API with `glassEffect`, `GlassEffectContainer`, and availability fallbacks.
-* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,937 | 🐛 6 | 🌐 Python | 📅 2026-11-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
+* [SwiftUI Expert](https://github.com/AvdLee/SwiftUI-Agent-Skill) ⭐ 3,940 | 🐛 6 | 🌐 Python | 📅 2026-11-06 - State management, view composition, performance, and iOS 26+ Liquid Glass.
 
 ### Swift Concurrency
 
 * [Swift Concurrency Expert](https://github.com/Dimillian/Skills/tree/main/swift-concurrency-expert) ⭐ 4,035 | 🐛 12 | 🌐 Shell | 📅 2026-03-29 - Swift 6.2+ actor isolation, data-race safety, and minimal-change fixes for compiler errors.
-* [Swift Concurrency](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) ⭐ 1,723 | 🐛 7 | 📅 2026-11-06 - Async/await, actors, Sendable, and strict concurrency for Swift 6.
+* [Swift Concurrency](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) ⭐ 1,728 | 🐛 7 | 📅 2026-11-06 - Async/await, actors, Sendable, and strict concurrency for Swift 6.
 
 ### Architecture
 
@@ -36,12 +36,12 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### Data and Persistence
 
-* [SwiftData](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/swiftdata) ⭐ 1,310 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - @Model schemas, @Query, predicates, relationships, and migration patterns.
+* [SwiftData](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/swiftdata) ⭐ 1,312 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - @Model schemas, @Query, predicates, relationships, and migration patterns.
 * [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill) ⭐ 323 | 🐛 2 | 📅 2026-09-14 - Data modeling, fetch requests, CloudKit sync, migration, and performance.
 
 ### Testing
 
-* [Swift Testing Expert](https://github.com/AvdLee/Swift-Testing-Agent-Skill) ⭐ 482 | 🐛 4 | 📅 2026-09-14 - Modern Swift Testing framework with `#expect`, `#require`, traits, tags, parameterized tests, and XCTest migration.
+* [Swift Testing Expert](https://github.com/AvdLee/Swift-Testing-Agent-Skill) ⭐ 483 | 🐛 4 | 📅 2026-09-14 - Modern Swift Testing framework with `#expect`, `#require`, traits, tags, parameterized tests, and XCTest migration.
 
 ### Debugging
 
@@ -49,7 +49,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### AI and Machine Learning
 
-* [Apple On-Device AI](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/apple-on-device-ai) ⭐ 1,310 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Foundation Models, on-device inference, and Apple Intelligence integration.
+* [Apple On-Device AI](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/apple-on-device-ai) ⭐ 1,312 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Foundation Models, on-device inference, and Apple Intelligence integration.
 
 ### Design and Platform
 
@@ -58,9 +58,9 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### App Frameworks
 
-* [App Intents](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/app-intents) ⭐ 1,310 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Siri, Shortcuts, and App Intents framework integration.
-* [Live Activities](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/live-activities) ⭐ 1,310 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Dynamic Island and Lock Screen live updates with ActivityKit.
-* [WidgetKit](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/widgetkit) ⭐ 1,310 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Home Screen and Lock Screen widget development.
+* [App Intents](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/app-intents) ⭐ 1,312 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Siri, Shortcuts, and App Intents framework integration.
+* [Live Activities](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/live-activities) ⭐ 1,312 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Dynamic Island and Lock Screen live updates with ActivityKit.
+* [WidgetKit](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/widgetkit) ⭐ 1,312 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - Home Screen and Lock Screen widget development.
 
 ### Workflow and Automation
 
@@ -70,7 +70,7 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ### Accessibility
 
-* [iOS Accessibility](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/ios-accessibility) ⭐ 1,310 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - VoiceOver support, accessibility modifiers, and Dynamic Type patterns for iOS.
+* [iOS Accessibility](https://github.com/dpearson2699/swift-ios-skills/tree/main/skills/ios-accessibility) ⭐ 1,312 | 🐛 1 | 🌐 Python | 📅 2026-07-31 - VoiceOver support, accessibility modifiers, and Dynamic Type patterns for iOS.
 
 ### WebAssembly
 
@@ -83,16 +83,16 @@ AI coding tools write Swift like it is 2020. They use `ObservableObject` when `@
 
 ## MCP Servers
 
-* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 41,426 | 🐛 94 | 🌐 JavaScript | 📅 2026-11-20 - Search and install agents, skills, and MCP servers from GitHub.
-* [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,597 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-19 - Build, run, test, and debug Xcode projects from AI agents.
+* [awesome-copilot MCP](https://github.com/github/awesome-copilot) ⭐ 41,447 | 🐛 103 | 🌐 JavaScript | 📅 2026-11-20 - Search and install agents, skills, and MCP servers from GitHub.
+* [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) ⭐ 6,596 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-19 - Build, run, test, and debug Xcode projects from AI agents.
 * [MCP Swift SDK](https://github.com/modelcontextprotocol/swift-sdk) ⭐ 1,584 | 🐛 112 | 🌐 Swift | 📅 2026-11-15 - Official Swift SDK for building MCP servers and clients.
-* [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) ⭐ 1,387 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-17 - Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.
+* [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) ⭐ 1,386 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-17 - Search Apple developer documentation, WWDC videos, and Swift API references from AI assistants.
 * [Xcode MCP Server](https://github.com/r-huijts/xcode-mcp-server) ⭐ 387 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-02 - Xcode project management, simulator control, and build automation for AI assistants.
 * [Swift Patterns MCP](https://github.com/efremidze/swift-patterns-mcp) ⭐ 13 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-21 - Swift and SwiftUI best practices from leading iOS developers with intelligent search across YouTube, Patreon, and other sources.
 
 ## Tools
 
-* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,398 | 🐛 266 | 🌐 Swift | 📅 2026-11-16 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
+* [Copilot for Xcode](https://github.com/github/CopilotForXcode) ⭐ 6,399 | 🐛 266 | 🌐 Swift | 📅 2026-11-16 - GitHub Copilot extension for Xcode with agent mode, completions, and code review.
 
 ## Resources
 
@@ -111,4 +111,4 @@ Created by [Taylor Arndt](https://github.com/taylorarndt). Maintained by [Techop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
